@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/spaceinafrica/Desktop/n/learnCpp/filelogger",
+      "program": "/Users/spaceinafrica/Desktop/n/learnCpp/filelogger/build/Debug/outDebug"
+    }
+  ]
+}
